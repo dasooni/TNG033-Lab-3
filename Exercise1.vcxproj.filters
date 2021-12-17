@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Dasmit Sethi\Desktop\TNG033\lab3\code\exerc1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Dasmit Sethi\Desktop\TNG033\lab3\code\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Dasmit Sethi\Desktop\TNG033\lab3\code\uppgift1_kort.txt" />
+    <None Include="C:\Users\Dasmit Sethi\Desktop\TNG033\lab3\code\out_uppgift1_kort.txt" />
+    <None Include="C:\Users\Dasmit Sethi\Desktop\TNG033\lab3\code\uppgift1.txt" />
+    <None Include="C:\Users\Dasmit Sethi\Desktop\TNG033\lab3\code\out_uppgift1.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{2FC82AC9-34FA-3C6E-9688-6C74BEA0DB7D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
